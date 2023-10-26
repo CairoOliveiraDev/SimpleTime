@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/10/26 13:19:14.071,=C:\Users\cairo\Desktop\Codes\C++\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/26 13:19:14.212,=C:\Users\cairo\Desktop\Codes\C++\Unit1.cpp</Transaction>
+    <Transaction>2023/10/26 13:47:34.736,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\SimpleTimeProjectPCH1.h=C:\Users\cairo\Desktop\Codes\C++\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/26 13:47:34.777,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.dfm=C:\Users\cairo\Desktop\Codes\C++\Unit1.dfm</Transaction>
+    <Transaction>2023/10/26 13:47:34.777,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.cpp=C:\Users\cairo\Desktop\Codes\C++\Unit1.cpp</Transaction>
+    <Transaction>2023/10/26 13:47:34.777,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.h=C:\Users\cairo\Desktop\Codes\C++\Unit1.h</Transaction>
+    <Transaction>2023/10/26 13:47:34.793,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\SimpleTimeProject.cbproj=C:\Users\cairo\Desktop\Codes\C++\Project1.cbproj</Transaction>
+    <Transaction>2023/10/26 13:47:51.386,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\SimpleTime.dfm=C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.dfm</Transaction>
+    <Transaction>2023/10/26 13:47:51.386,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\SimpleTime.h=C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.h</Transaction>
+    <Transaction>2023/10/26 13:47:51.386,C:\Users\cairo\Desktop\Codes\C++\SimpleTime\SimpleTime.cpp=C:\Users\cairo\Desktop\Codes\C++\SimpleTime\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
